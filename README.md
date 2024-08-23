@@ -1,1 +1,1 @@
-HI friends
+MY VERY FIRST DEV PROJECT
